@@ -44,7 +44,7 @@ def print_list(l):
     print(', '.join(l))
 
 #узнаем директорию папки
-current_dir = os.path.dirname(sys.executable)
+current_dir = os.path.dirname(sys.executable)#если хотите запустить программу ввиде python file то замените sys.executable на os.path.abspath(__file__)
 print(f'Директория папки --> {current_dir}')
 print(f'_____________________{''.join(tire(current_dir))}')
 
