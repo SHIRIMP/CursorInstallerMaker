@@ -24,7 +24,7 @@
 <img width="292" height="64" alt="Image" src="https://github.com/user-attachments/assets/a76c968b-37e9-48fc-8774-650ed29dc9ff" />
 
 Если вы все сделали правильно то программа скажет что установщик успешно создан и при нажатии на Enter программа закроется.
-*Уже при наличии инсталлера в папке то он просто перезапишется!*
+*Уже при наличии инсталлера в папке, он просто перезапишется!*
 
 <img width="283" height="58" alt="Image" src="https://github.com/user-attachments/assets/f62eb01a-388f-4596-bb47-ff6655edf554" />
 
